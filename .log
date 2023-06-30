@@ -1,0 +1,5 @@
+127.0.0.1 -  [30/Jun/2023:15:12:20 +0700] "POST /v1/login HTTP/1.1" 200 311 "http://localhost:8080/v1/login/" "PostmanRuntime/7.32.3" 134.1915ms
+127.0.0.1 -  [30/Jun/2023:15:12:31 +0700] "POST /v1/logout HTTP/1.1" 200 34 "http://localhost:8080/v1/logout/" "PostmanRuntime/7.32.3" 1.1715ms
+127.0.0.1 -  [30/Jun/2023:15:12:40 +0700] "POST /v1/menu/payment HTTP/1.1" 401 67 "http://localhost:8080/v1/menu/payment/" "PostmanRuntime/7.32.3" 549.1µs
+127.0.0.1 -  [30/Jun/2023:15:12:53 +0700] "POST /v1/login HTTP/1.1" 200 311 "http://localhost:8080/v1/login/" "PostmanRuntime/7.32.3" 43.6796ms
+127.0.0.1 -  [30/Jun/2023:15:13:05 +0700] "POST /v1/menu/payment HTTP/1.1" 200 34 "http://localhost:8080/v1/menu/payment/" "PostmanRuntime/7.32.3" 59.2005ms

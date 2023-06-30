@@ -1,0 +1,62 @@
+[
+ {
+  "uuid": "3c167c20-1617-407c-8238-871d99588d2a",
+  "username": "msteinor0",
+  "password": "$2a$08$r/JaKA2FJdn7x4Edx.OmEe9xT6h1WaEmP4ic0OlzhqQbt9HHmGIee",
+  "balance": 476723.77
+ },
+ {
+  "uuid": "7093d626-3087-47ba-afe5-cb35d9832892",
+  "username": "escowcraft1",
+  "password": "$2a$08$UKIO94.Duc03c5l5rkGiQOE1XY0S5XlBFV8OBqxQKp243Nnxv0X4S",
+  "balance": 892757.75
+ },
+ {
+  "uuid": "9e6dacff-b851-43fe-a946-0d4c33a712ef",
+  "username": "grate2",
+  "password": "$2a$08$/7wwiZtGNmbC3woTCMlY3O5FdqvDlSJ9JI71dr55CaByaPRYYN17y",
+  "balance": 665934.06
+ },
+ {
+  "uuid": "67e925c6-8c52-46f1-bc3d-2efe688f2925",
+  "username": "alintall3",
+  "password": "$2a$08$1pBmWw7/xS/CMO9Zq0pjaO8jbRKso60oM2j39sL0EHE4xcfSJ/NKe",
+  "balance": 358131.69
+ },
+ {
+  "uuid": "6bbd7ec1-f587-45e3-ba69-d103d1f8760c",
+  "username": "mswabey4",
+  "password": "$2a$08$Qj8YLgdtRTThX6rAFrUD7.NeWXT5ENtlZVpOQ8VRZkG.wAzwkj.Hu",
+  "balance": 367356.48
+ },
+ {
+  "uuid": "bc593d1e-e4e6-4a65-b2a7-372098f74d1d",
+  "username": "cbampford5",
+  "password": "$2a$08$a7a8k1KrnyU5liaS0xqdWeQJbwdqZ0P0ICDuxefwH42Rxmk0c4tPq",
+  "balance": 620624.68
+ },
+ {
+  "uuid": "c09defcd-8bc2-41e1-aff6-18dd14c51a81",
+  "username": "bcodi6",
+  "password": "$2a$08$g6tH9CU0Sb4Ebsb8pUiXOusR6ZHq7sFayfTLyE/uGizHMXwlvtV/2",
+  "balance": 389253.87
+ },
+ {
+  "uuid": "38dd2634-57d8-4e58-bb7f-7ae3fa306c22",
+  "username": "voregan7",
+  "password": "$2a$08$/skfIaP3B4TwUpDOkiNgWeIXunJx/ywlSyLVQM8LcPIQXLIEVJ81e",
+  "balance": 71253.18
+ },
+ {
+  "uuid": "923b5fd8-3ece-4063-874b-4d0b00f03303",
+  "username": "ltrenbey8",
+  "password": "$2a$08$jA.b/6PnJxfbjQMZjHSx1.xsjDUgrBMWBIqMFC.8yVUVl4HRfWOXW",
+  "balance": 34645.58
+ },
+ {
+  "uuid": "f0a49895-b030-4cf1-9f7d-25a20d563ede",
+  "username": "seakeley9",
+  "password": "$2a$08$dqcSeD0jnc1tSIo6zw8KfedImPz5Q.tvhag4mNTAwSc.eQQEbHPTO",
+  "balance": 304207.34
+ }
+]
